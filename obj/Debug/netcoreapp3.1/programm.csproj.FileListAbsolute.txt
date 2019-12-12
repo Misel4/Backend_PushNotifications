@@ -1,0 +1,13 @@
+C:\Android Xamarin\programm\bin\Debug\netcoreapp3.1\programm.exe
+C:\Android Xamarin\programm\obj\Debug\netcoreapp3.1\programm.AssemblyInfoInputs.cache
+C:\Android Xamarin\programm\obj\Debug\netcoreapp3.1\programm.AssemblyInfo.cs
+C:\Android Xamarin\programm\bin\Debug\netcoreapp3.1\programm.deps.json
+C:\Android Xamarin\programm\bin\Debug\netcoreapp3.1\programm.runtimeconfig.json
+C:\Android Xamarin\programm\bin\Debug\netcoreapp3.1\programm.runtimeconfig.dev.json
+C:\Android Xamarin\programm\bin\Debug\netcoreapp3.1\programm.dll
+C:\Android Xamarin\programm\bin\Debug\netcoreapp3.1\programm.pdb
+C:\Android Xamarin\programm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Android Xamarin\programm\obj\Debug\netcoreapp3.1\programm.csproj.CopyComplete
+C:\Android Xamarin\programm\obj\Debug\netcoreapp3.1\programm.dll
+C:\Android Xamarin\programm\obj\Debug\netcoreapp3.1\programm.pdb
+C:\Android Xamarin\programm\obj\Debug\netcoreapp3.1\programm.csprojAssemblyReference.cache
